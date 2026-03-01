@@ -16,6 +16,7 @@ y los puntos por 10 cm. VibeKnitting usa exactamente eso.
 ## Cómo usar
 
 Abre `index.html` en cualquier navegador. Sin instalación, sin servidor, sin registro.
+No se conecta a ningún servicio externo. Todo se guarda localmente en tu navegador.
 
 O úsalo en vivo: [vibeknitting.github.io](https://yourusername.github.io/vibeknitting)
 
@@ -41,6 +42,7 @@ están implementadas. Jersey y chaleco en desarrollo.
 ## Creado con
 
 Diseñado por mí, creado con Claude Code.
+Se agradecen ideas, sugerencias y mejoras.
 
 
 ## Licencia
